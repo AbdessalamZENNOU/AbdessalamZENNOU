@@ -75,4 +75,4 @@ You can reach me via email at: [abdesslam.zennou@gmail.com](mailto:abdessalam.ze
 
 ------
 
-Credit: [abdessalaZENNOU](https://github.com/AbdessalamZENNOU)
+Credit: [abdessalamZENNOU](https://github.com/AbdessalamZENNOU)
