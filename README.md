@@ -62,7 +62,7 @@ public class AbdessalamZENNOU {
 
 <br/>
 <p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=mohamedelmakhfi&show_icons=true&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=AbdessalamZENNOU&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdessalamZENNOU&theme=gruvbox&hide_border=true" />
   </a>
 </p>
